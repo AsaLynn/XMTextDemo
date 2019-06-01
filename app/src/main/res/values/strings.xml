@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">XMTextDemo</string>
+    <string name="text_xm_mesage">无题\n————(李商隐)\n相见时难别亦难，\n东风无力百花残。  \n春蚕到死丝方尽，\n蜡炬成灰泪始干。  \n晓镜但愁云鬓改，\n夜吟应觉月光寒。  \n蓬山此去无多路，\n青鸟殷勤为探看。</string>
+
+    <string name="text_xm_purpose">人们都说流星有求必应，我愿呆在在星空下等待，一直到那颗星星被我感动</string>
+</resources>
