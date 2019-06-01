@@ -57,11 +57,6 @@ public class FadeInTextView extends AppCompatTextView {
 //        }
     }
 
-    /**
-     * 绘制文字
-     *
-     * @param canvas 画布
-     */
     private void drawText(Canvas canvas, String textString) {
         textRect.left = getPaddingLeft();
         textRect.top = getPaddingTop();

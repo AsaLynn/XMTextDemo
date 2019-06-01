@@ -36,7 +36,7 @@ apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 def siteUrl = 'https://github.com/zhang721688/XMTextDemo'
 def gitUrl = 'https://github.com/zhang721688/XMTextDemo.git'
-def libName = "AtEditText"
+def libName = "xm-text"
 group = "com.zxn.xm.text"
 version = "1.0.0"
 task sourcesJar(type: Jar) {
@@ -105,7 +105,7 @@ bintray {
     }
 }
 javadoc {
-    options{
+    options {
         encoding "UTF-8"
         charSet 'UTF-8'
         author true
